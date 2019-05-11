@@ -35,7 +35,7 @@
         导入系统
         
     6)pep8 介绍
-        [pep8 编码规范](https://www.jianshu.com/p/52f4416c267d/ "悬停显示")
+        [pep8 编码规范](https://www.jianshu.com/p/52f4416c267d/)
         
 ## 4.pyhon 数值基本知识
     1)python 中数值类型，int float bool e记法等
