@@ -35,6 +35,12 @@
         set（） //不是{}
     3） 方法
         http://www.runoob.com/python3/python3-set.html
-## 3. 判断语句（要求掌握多条件判断）
+## 3. 判断语句
+    http://www.runoob.com/python/python-if-statement.html
 ## 4. 三目表达式
-    循环语句
+    result if else //条件成立语句 if 条件 else 条件不成立语句
+## 循环语句
+    http://www.runoob.com/python/python-loops.html
+    for loop
+    while loop
+    
